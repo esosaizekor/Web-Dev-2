@@ -1,0 +1,23 @@
+
+    {
+    "itemdescription" : [""], 
+    "price" : [""], 
+    "quantity" : [""], 
+    "pages" : [0],
+    "companyname" : "Your Company Name",
+    "address" : "1234 Street Address", 
+    "city" : "City, State", 
+    "postalcode" : "12345",
+    "country" : "Country",
+    "phone" : "123-456-7890",
+    "website" : "www.yourcompany.com",
+    "vatnumber" : "VAT123456",
+    "invoicenumber" : "INV-0001",
+    "invoicedate" : "2023-01-01",
+    "duedate" : "2023-01-15",
+    "billto" : "Client Name\nClient Address\nCity, State, Postal Code",
+    "shipto" : "Client Name\nClient Address\nCity, State, Postal Code",
+    "taxrate" : "10%",
+    "notes" : "Thank you for your business!",
+    "terms" : "Payment is due within 15 days."
+    }
