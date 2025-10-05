@@ -9,5 +9,7 @@ email : esosa.izekor@outlook.com<br />
         howtoweargreen@gmail.com<br />
 Github : Esosa Izekor https://github.com/esosaizekor<br />
 
+Preview sample : <br />
 
+[sample2.pdf](https://github.com/user-attachments/files/22711655/sample2.pdf)
 
